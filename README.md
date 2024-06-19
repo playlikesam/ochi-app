@@ -10,11 +10,11 @@ Currently, two official plugins are available:
 
 steps used to make ochi : 
 
-step 1 : Tailwind setup kar
-step 2 : different changes karke npm run dev use krke project ko live kr
+step 1 : setup initializations including Tailwind and vite
+step 2 : Make changes accordingly and use npm run dev to make your app live
 step 3 : remove app.css
-step 4 : use rfce at app.jsx
-step 5 : started making :
+step 4 : use rfce at app.jsx to begin with boiler plate
+step 5 : started following the components :
 
 --> components :
 navbar 
